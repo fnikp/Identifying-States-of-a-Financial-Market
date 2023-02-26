@@ -1,4 +1,4 @@
-gfrom itertools import combinations
+from itertools import combinations
 
 import numpy as np
 import numpy.ma as ma
